@@ -1,6 +1,6 @@
 # rna_opes_example_input by Gul Zerze, December 16, 2022
 
-# To run this set of files, one can submit a job script with following:
+# To run this set of files (the contents in the zip file), one can submit a job script with following:
 
 # Define number of replicas
 ng=8
